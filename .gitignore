@@ -7,3 +7,5 @@ coverage
 lib
 dist/
 .vercel
+.idea/
+package-lock.json
